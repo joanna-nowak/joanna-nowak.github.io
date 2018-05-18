@@ -1,0 +1,58 @@
+p {
+  color:red;
+  font-size: 24px;
+}
+
+h3 {
+  color:blue;
+  font-size: 24px;
+}
+
+h2 {
+  color: green;
+  font-size: 20px;
+  font-family: Arial;
+  text-align: right;
+}
+
+td {
+  border-width: 3px;
+  border-color: grey;
+  border-style: dotted;
+  padding: 20px;
+  font-size: 20px;
+  color: blue;
+  font-weight: bold;
+  text-align: center;
+}
+
+td:hover {
+  background-color: lightgrey;
+}
+
+th {
+  border-width: 3px;
+  border-color: grey;
+  border-style: solid;
+  padding: 20px;
+  color: red;
+  font-size: 25px;
+  background-color: yellow;
+}
+
+li {
+  color: grey;
+  font-size: 20px;
+}
+
+body {
+  max-width: 1200px
+}
+
+.width200 {
+  width: 200px;
+}
+
+.width300 {
+  width: 300px;
+}
